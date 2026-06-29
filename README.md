@@ -25,7 +25,7 @@ if you intrested to build this project so you need to buy all the components and
 
 for use it is very simpel just up and down to select the mode as you wanted to wifi or blutooth then click the center button for select and then it will be started working .
 
-<img width="275" height="375" alt="Screenshot 2026-06-27 214556" src="https://github.com/user-attachments/assets/1d30ac03-ca88-434d-8cab-cc9c47592b30" /><img width="647" height="395" alt="Screenshot 2026-06-27 214105" src="https://github.com/user-attachments/assets/eb3fff98-d284-46ad-85c9-a274ce668c69" /><img width="357" height="336" alt="Screenshot 2026-06-27 213924" src="https://github.com/user-attachments/assets/5ee36c22-e75c-4e70-b9ca-501a2e413ce7" />
+<img width="275" height="375" alt="Screenshot 2026-06-27 214556" src="https://github.com/user-attachments/assets/1d30ac03-ca88-434d-8cab-cc9c47592b30" /><img width="357" height="336" alt="Screenshot 2026-06-27 213924" src="https://github.com/user-attachments/assets/5ee36c22-e75c-4e70-b9ca-501a2e413ce7" /><img width="647" height="395" alt="Screenshot 2026-06-27 214105" src="https://github.com/user-attachments/assets/eb3fff98-d284-46ad-85c9-a274ce668c69" />
 
 
                                                    !warning!
