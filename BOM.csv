@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"1200mAh Lipo Battery","for powering the jammer",1,2.53,"https://makerbazar.in/products/kp-523450-3-7v-1200mah-lipo-battery-single-cell-lithium-polymer-battery?variant=48251127628016","MAKERBAZAR"
+"TP4056 Li-ion 18650 3.7V 4.2V Battery Charger Board DC-DC Step Up Boost Module","for charge the battery",1,0.60,"https://makerbazar.in/products/3-5v-to-5v-9v-lithium-battery-charge-discharge-adjustable-module?variant=48251032535280","MAKERBAZAR"
+"custom pcb","for connect and hold all components",1,33.90,"https://cart.jlcpcb.com/shopcart/cart","JLCPCB"
+"WS2812 RGB LED Breakout Module","for see the controls",1,0.19,"https://robu.in/product/cjmcu-123-ws2811-rgb-led-breakout-module/","ROBU.IN"
+"12*12 tactile button","for control the jammer",5,0.48,"https://makerbazar.in/products/tactile-push-button?variant=47433066184944","MAKERBAZAR"
+"0.96inch 128x64 OLED Display Module","for visual control",1,2.00,"https://makerbazar.in/products/0-96-inch-128x64-oled-display-module?variant=47397087412464","MAKERBAZAR"
+"2.4GHz NRF24L01","for transmitting signal",1,4.62,"https://makerbazar.in/products/2-4ghz-nrf24l01-pa-lna-sma-wireless-transceiver-antenna?variant=44824810324208","MAKERBAZAR"
+"ESP32-WROOM","the main controller for this project",1,3.40,"https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/","ROBU.IN"
+"delivery charges,,,11.12,,various  
+ total cost,,,59,, 
