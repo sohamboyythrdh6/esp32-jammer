@@ -1,4 +1,11 @@
-you need to download esp32 board verson 2.0.11  .  and select board node32s
+you need to download esp32 board verson 2.0.11
 
+Board: -------------------------------------- "Node32s"
+Upload Speed: ------------------------------- "921600"
+Flash Frequency:----------------------------- "80MHz"
+Partition Scheme:---------------------------- "Minimal SPIFFS (Large APPS with OTA)"
+Core Debug Level:---------------------------- "None"
+Erase All Flash Before Sketch Upload:-------- "Disabled"
+Port:---------------------------------------- "COM8"
 
 
