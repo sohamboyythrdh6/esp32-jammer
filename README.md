@@ -12,15 +12,15 @@ this project is seem like iliggle if it misused but i made this project just for
 |-----------|---------|-----|------------|-------------|
 | 1200mAh LiPo Battery | Powers the device | 1 | $2.53 | Maker Bazar |
 | TP4056 Li-ion Battery Charger & Boost Module | Charges the battery and provides regulated output | 1 | $0.60 | Maker Bazar |
-| Custom PCB | Mounts and connects all components | 1 | $35 | JLCPCB |
+| Custom PCB | Mounts and connects all components | 1 | $20 | JLCPCB |
 | WS2812 RGB LED Breakout Module | Visual status indicator | 1 | $0.19 | Robu.in |
 | 12×12 Tactile Push Button | User input controls | 5 | $0.48 | Maker Bazar |
 | 0.96" 128×64 OLED Display Module | Displays menus and status information | 1 | $2.00 | Maker Bazar |
 | 2.4GHz NRF24L01 Module | Wireless communication module | 1 | $4.62 | Maker Bazar |
 | ESP32-WROOM | Main microcontroller | 1 | $3.40 | Robu.in |
-| Delivery Charges | Shipping costs | 3 | $11.12 | Various |
+| Delivery Charges | Shipping costs | 3 | $2 | Various |
 
-**Total Estimated Cost:** **$62 USD**
+**Total Estimated Cost:** **$40USD**
 
 if you intrested to build this project so you need to buy all the components and the pcb also you need a soldering iron then solder all the parts on the pcb board as givven then program the board by the code given in the repo and also connect the battery finally you are ready to use 
 
