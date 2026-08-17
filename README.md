@@ -31,4 +31,4 @@ for use it is very simple just up and down to select the mode as you wanted to W
 
 
                                                    !warning!
-please use this device just for education purpose not to disturb others then it will be caught as illigel!
+please use this device just for education purpose not to disturb others then it will be caught as illegal!
