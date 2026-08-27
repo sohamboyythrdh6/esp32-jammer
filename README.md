@@ -31,6 +31,7 @@ for use it is very simple just up and down to select the mode as you wanted to W
 <img width="649" height="393" alt="Screenshot 2026-06-29 140658" src="https://github.com/user-attachments/assets/4afa27c3-bdab-4555-8f4b-04246c394cc5" /><img width="263" height="356" alt="Screenshot 2026-06-29 140745" src="https://github.com/user-attachments/assets/79efa071-035a-4242-aa95-fecef9edc041" />
 
 
+<img width="452" height="519" alt="Screenshot 2026-08-27 214324" src="https://github.com/user-attachments/assets/b610444b-40eb-48de-bf46-eb6d22c61fa4" />
 
                                                    !warning!
 please use this device just for education purpose not to disturb others then it will be caught as illegal!
